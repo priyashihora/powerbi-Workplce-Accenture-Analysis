@@ -517,7 +517,7 @@ A walkthrough can be added here demonstrating all five report pages, KPI cards, 
 
 <div align="center">
 
-# Tirth Donga
+# Priya Shihora
 
 [![GitHub](https://img.shields.io/badge/GitHub-priya_shihora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyashihora)
 
