@@ -180,7 +180,7 @@ The **Workforce Overview** page summarizes workforce size, active employees, emp
 
 ### 📸 Dashboard Screenshot
 
-<img src="Assets/Images/Page-1.png" alt="Accenture India Workforce Overview Dashboard">
+<img src="assets/Images/Page-1.png" alt="Accenture India Workforce Overview Dashboard">
 
 ---
 
@@ -235,7 +235,7 @@ The **Attrition & Retention Analysis** page examines employee exits, retention, 
 
 ### 📸 Dashboard Screenshot
 
-<img src="Assets/Images/Page-2.png" alt="Accenture India Attrition and Retention Dashboard">
+<img src="assets/Images/Page-2.png" alt="Accenture India Attrition and Retention Dashboard">
 
 ---
 
@@ -288,7 +288,7 @@ The **Compensation & Salary Analytics** page compares payroll and employee compe
 
 ### 📸 Dashboard Screenshot
 
-<img src="Assets/Images/Page-3.png" alt="Accenture India Compensation and Salary Analytics Dashboard">
+<img src="assets/Images/Page-3.png" alt="Accenture India Compensation and Salary Analytics Dashboard">
 
 ---
 
@@ -338,7 +338,7 @@ The **Performance & Promotion Analytics** page focuses on employee ratings, prom
 
 ### 📸 Dashboard Screenshot
 
-<img src="Assets/Images/Page-4.png" alt="Accenture India Performance and Promotion Analytics Dashboard">
+<img src="assets/Images/Page-4.png" alt="Accenture India Performance and Promotion Analytics Dashboard">
 
 ---
 
@@ -390,7 +390,7 @@ The funnel labels show **9.1%** retained relative to applicants (25K out of 275K
 
 ### 📸 Dashboard Screenshot
 
-<img src="Assets/Images/Page-5.png" alt="Accenture India Executive HR Summary Dashboard">
+<img src="assets/Images/Page-5.png" alt="Accenture India Executive HR Summary Dashboard">
 
 ---
 
